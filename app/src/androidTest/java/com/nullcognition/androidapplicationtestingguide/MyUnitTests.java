@@ -54,6 +54,8 @@ public class MyUnitTests extends TestCase{
 
    private int i;
 
+   public MyUnitTests(){ this("myUnitTest");}
+
    public MyUnitTests(String string){
 
 	  super(string);
