@@ -27,6 +27,11 @@
             android:enabled="true"
             android:exported="false" >
         </provider>
+
+        <activity
+            android:name=".MyListActivity"
+            android:label="@string/title_activity_my_list" >
+        </activity>
     </application>
 
 </manifest>
