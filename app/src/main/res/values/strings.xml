@@ -5,6 +5,11 @@
 	<string name="action_settings">Settings</string>
 	<string name="title_activity_my_list">MyListActivity</string>
 
+	<string name="visit_home_page">Visit book\'s home page at</string>
+	<string name="home">http://goo.gl/YUSmo</string>
+	<string name="capitalize_button">Capitalize</string>
+	<string name="message_hint">Enter message</string>
+
 	<string-array name="countries">
 
 		<item>Afghanistan</item>
