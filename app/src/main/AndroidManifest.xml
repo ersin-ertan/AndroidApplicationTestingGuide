@@ -12,7 +12,7 @@
 		<!--android:targetPackage=""-->
 		<!--android:name="android.test.InstrumentationTestRunner"-->
 		<!--android:label="MyFirstProject Tests"-->
-		<!--/>-->
+		<!--></instrumentation>-->
 
 	<application
 		android:allowBackup="true"

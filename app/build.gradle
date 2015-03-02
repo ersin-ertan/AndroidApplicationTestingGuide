@@ -12,6 +12,7 @@ android {
         versionName "1.0"
         testApplicationId "com.nullcognition.androidapplicationtestingguide.test"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
+//      testInstrumentationRunner "com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner"
     }
     buildTypes {
         release {

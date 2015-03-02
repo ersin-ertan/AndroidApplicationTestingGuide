@@ -16,6 +16,8 @@ import com.nullcognition.androidapplicationtestingguide.R;
  * Created by ersin on 02/03/15 at 2:03 AM
  */
 
+// ** chapter04 not working **
+
 public class TemperatureConverterActivityTests extends ActivityInstrumentationTestCase2<TemperatureConverterActivity> {
 
    private TemperatureConverterActivity mActivity;
