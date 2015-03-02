@@ -1,12 +1,14 @@
 package com.nullcognition.androidapplicationtestingguide;
 
-import junit.framework.TestCase;
+import android.test.AndroidTestCase;
 
 // import static android.test.ViewAsserts.assertRightAligned;
 
 // Building blocks of the android sdk
 
-public class Chapter03 extends TestCase {
+public class Chapter03 extends AndroidTestCase {
+
+
 
    public Chapter03(){}
 
@@ -39,6 +41,7 @@ public class Chapter03 extends TestCase {
 
    // we can assert empty, hashcode, regex, order and more
    // http://developer.android.com/reference/android/test/ViewAsserts.html
+
    // for regex http://developer.android.com/reference/java/util/regex/package-summary.html
 
    public void testTouchUtis(){

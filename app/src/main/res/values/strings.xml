@@ -9,6 +9,9 @@
 	<string name="home">http://goo.gl/YUSmo</string>
 	<string name="capitalize_button">Capitalize</string>
 	<string name="message_hint">Enter message</string>
+	<string name="celsius">celcius</string>
+	<string name="fahrenheit">faharenheit</string>
+	<string name="message">message</string>
 
 	<string-array name="countries">
 
