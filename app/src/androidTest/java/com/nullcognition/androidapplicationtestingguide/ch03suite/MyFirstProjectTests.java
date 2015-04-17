@@ -1,4 +1,4 @@
-package com.nullcognition.androidapplicationtestingguide.Ch03Suite;
+package com.nullcognition.androidapplicationtestingguide.ch03suite;
 
 import android.os.Debug;
 import android.test.suitebuilder.annotation.SmallTest;

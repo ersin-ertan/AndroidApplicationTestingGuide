@@ -1,4 +1,4 @@
-package com.nullcognition.androidapplicationtestingguide.Ch03Suite;
+package com.nullcognition.androidapplicationtestingguide.ch03suite;
 
 import android.content.ContentValues;
 import android.database.Cursor;

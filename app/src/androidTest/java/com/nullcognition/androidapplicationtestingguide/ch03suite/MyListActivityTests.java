@@ -1,4 +1,4 @@
-package com.nullcognition.androidapplicationtestingguide.Ch03Suite;
+package com.nullcognition.androidapplicationtestingguide.ch03suite;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.TouchUtils;
